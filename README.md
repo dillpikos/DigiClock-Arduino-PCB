@@ -34,8 +34,8 @@ This board is meant to operate at 3.3V and uses I2C to communicate to all compon
 
 ## Custom Footprints
 Footprints were created for the PCB based on the exact physical measurments of the components in mm for accurate pad and pin allignments (2.54 mm spacing between pads)
-- DS3231 RTC Module: 22 x 38.5 (W x L)
-- SSD1306 Display : 28 x 28 (W x L)
+- DS3231 RTC Module: 22mm x 38.5mm (W x L) 
+- SSD1306 Display : 28mm x 28mm (W x L)
 
 
 # System Preview
