@@ -29,9 +29,14 @@ This board is meant to operate at 3.3V and uses I2C to communicate to all compon
   + Adafruit_SSD1306
   + RTClib
 + KiCad9 (Used for schematic design and layout, along with custom symbols and footprints for modules)
-
++ Gerber File generation for manufacturing (manufactured using PCBWay)
 
 
 ## Custom Footprints
-Footprints were create for the PCB based on the exact physical measurments of the components in MM
+Footprints were created for the PCB based on the exact physical measurments of the components in mm for accurate pad and pin allignments (2.54 mm spacing between pads)
+- DS3231 RTC Module: 22 x 38.5 (W x L)
+- SSD1306 Display : 28 x 28 (W x L)
+
+
+# System Preview
 
