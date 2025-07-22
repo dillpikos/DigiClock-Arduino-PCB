@@ -39,4 +39,6 @@ Footprints were created for the PCB based on the exact physical measurments of t
 
 
 # System Preview
-
+![DigiclockFront](https://github.com/user-attachments/assets/936329aa-14d0-4de2-b1b4-fcba4635303b)
+![DigiclockBack](https://github.com/user-attachments/assets/b9eb7865-8bd0-446e-9074-16d83d67c04f)
+![DigiclockAssembled](https://github.com/user-attachments/assets/255c8900-673d-4ea4-8817-17b267f5f92a)
