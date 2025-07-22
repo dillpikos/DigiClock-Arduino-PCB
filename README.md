@@ -8,7 +8,7 @@ All components were selected for compatibility and the PCB includes custom made 
 This system includes an onboard battery health check system which detects if the backpack battery on the RTC module is either dead or was removed while the device was unplugged (meaning the time is wrong and needs to be reset) A pop up makes sure the user knows of this and it lasts for 10 seconds upon the start of the device
 </br>
 </br>
-This board is meant to operate at 3.3V and uses I2C to communicate to all components
+This board is meant to operate at 3.3V, uses I2C to communicate to all components and has mounting holes in each corner for M2 screws
 </br>
 *created by Bryan Diaz | Focus: Embedded Systems, Hardware, and PCB Design*
 
@@ -42,4 +42,7 @@ Footprints were created for the PCB based on the exact physical measurments of t
 <img src = "https://github.com/user-attachments/assets/936329aa-14d0-4de2-b1b4-fcba4635303b" width = "550" height = "550"/> 
 <img src = "https://github.com/user-attachments/assets/b9eb7865-8bd0-446e-9074-16d83d67c04f" width = "550" height = "550"/> 
 <img src = "https://github.com/user-attachments/assets/255c8900-673d-4ea4-8817-17b267f5f92a" width = "550" height = "550"/> 
+
+# Battery Health Check System Preview
+<img src = "https://github.com/user-attachments/assets/2c916758-e5f6-4924-934b-60bfe770b088" width = "550" height = "550"/> 
 
