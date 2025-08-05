@@ -28,7 +28,7 @@ This board is meant to operate at 3.3V, uses I2C to communicate to all component
   + Adafruit GFX
   + Adafruit_SSD1306
   + RTClib
-+ KiCad9 (Used for schematic design and layout, along with custom symbols and footprints for modules)
++ KiCAD 9 (Used for schematic design and layout, along with custom symbols and footprints for modules)
 + Gerber File generation for manufacturing (manufactured using PCBWay)
 
 
