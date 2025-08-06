@@ -12,18 +12,18 @@ This board is meant to operate at 3.3V, uses I2C to communicate to all component
 </br>
 *created by Bryan Diaz | Focus: Embedded Systems, Hardware, and PCB Design*
 
-# Technologies and Componenets
+# Technologies and Components
 
 ## Hardware Related:
 + Arduino Nano
 + DS3231 Real Time Clock Module
 + SSD1306 0.96' OLED Display
-+ Custom 2 layer PCB (designed in KiCad)
++ Custom 2 layer PCB (designed in KiCAD)
 + Soldering of through hole components
 
 ## Software Related:
 + Arduino IDE
-+ C++ (custom functions for retrieving time and date, bettery health check system, drawing UI upon the start of the device)
++ C++ (custom functions for retrieving time and date, battery health check system, drawing UI upon the start of the device)
 + Various Libraries for Components
   + Adafruit GFX
   + Adafruit_SSD1306
