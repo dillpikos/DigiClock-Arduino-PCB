@@ -1,4 +1,4 @@
-# Digital Clock PCB Created With KiCad 9
+# Digital Clock PCB Created With KiCAD 9
 
 A custom designed digital clock PCB that integrates an Ardunio Nano, the SSD1306 OLED Display, and the DS3231 RTC Module to display the current time and day of the year.
 </br>
